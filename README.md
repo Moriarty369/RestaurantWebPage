@@ -1,2 +1,2 @@
-# RestaurantWebpage
-Webpage (with parallax effect)  for restaurant 
+# restaurant_web_page
+
